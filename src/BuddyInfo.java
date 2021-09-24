@@ -10,6 +10,7 @@ public class BuddyInfo {
     }
 
     public void printName() {
+
         System.out.println(this.name);
     }
 
