@@ -9,6 +9,10 @@ public class BuddyInfo {
 
     }
 
+    public void printName() {
+        System.out.println(this.name);
+    }
+
     private String name;
 
     public static void main(String[] args) {
