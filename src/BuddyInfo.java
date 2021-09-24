@@ -20,3 +20,4 @@ public class BuddyInfo {
     }
 }
 
+//CHANGE TO SEE IF IT UPDATES IN GITHUB REPO
